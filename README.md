@@ -19,6 +19,7 @@ This is a 3D interactive Solar System Simulator built with React and Three.js. I
 **Dynamic Loading**: Models are loaded dynamically with a loading progress indicator.
 
 **Responsive Design**: Adapts to different screen sizes.
+
 **3D Models**:The 3D models in the Solar System Simulator interact to create a dynamic and informative experience.
 
 **Technologies Used**
